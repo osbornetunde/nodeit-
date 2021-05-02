@@ -1,0 +1,19 @@
+{
+  "name": "nodeit-",
+  "version": "1.0.0",
+  "description": "this code was made with love",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donaldcrane/nodeit-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donaldcrane/nodeit-/issues"
+  },
+  "homepage": "https://github.com/donaldcrane/nodeit-#readme"
+}
